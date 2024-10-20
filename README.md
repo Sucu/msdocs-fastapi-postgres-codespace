@@ -26,3 +26,5 @@ This repo can be opened in a [Codespaces](https://docs.github.com/en/codespaces/
 
 
 [![Python application](https://github.com/Sucu/msdocs-fastapi-postgres-codespace/actions/workflows/python-app.yml/badge.svg)](https://github.com/Sucu/msdocs-fastapi-postgres-codespace/actions/workflows/python-app.yml)
+
+5. Build cli using Python Fire library `./cli-fire.py --help` to test logic
