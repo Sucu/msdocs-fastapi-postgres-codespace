@@ -16,3 +16,6 @@ This repo can be opened in a [Codespaces](https://docs.github.com/en/codespaces/
 ## Pydantic and SQLAlchemy
 
 [Pydantic](https://docs.pydantic.dev/latest/) is for data validation and settings managment using Python type annotations. [SQLAlchemy]() is a SQL toolkit and Object Relational Mapper (ORM).
+
+
+[![Python application](https://github.com/Sucu/msdocs-fastapi-postgres-codespace/actions/workflows/python-app.yml/badge.svg)](https://github.com/Sucu/msdocs-fastapi-postgres-codespace/actions/workflows/python-app.yml)

@@ -4,11 +4,11 @@ install:
 		pip install -r requirements.txt
 
 post-install:
-	# python -m textblob.download_corpora
+	python -m textblob.download_corpora
 
 format:
 	#format code
-	# black *.py mylib/*.py
+	black *.py mylib/*.py
 lint:
 	#flake8 or #pylint
 	# pylint --disable=R,C *.py mylib/*.py
